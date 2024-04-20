@@ -1,0 +1,31 @@
+Aerodinámica Avanzada: El diseño del 911 GT3 RS está completamente enfocado en la aerodinámica. Cada alerón, splitter y plano tiene un propósito específico para mejorar el rendimiento.
+Por ejemplo, el nuevo radiador central permite un flujo de aire más efectivo, aunque a expensas del espacio para las maletas. Además, el alerón trasero es más alto que el propio coche y cuenta con un sistema DRS (como en los Fórmula 1) para aumentar la velocidad en las rectas1.
+
+Carga Vertical Impresionante: Gracias a todas estas soluciones aerodinámicas, el Porsche 911 GT3 RS (992) genera una carga vertical de 860 kg a 285 km/h. Esto es una auténtica barbaridad para un coche de calle y supera a muchos coches de competición en el Mundial de Turismos1.
+
+Rendimiento en el Circuito: El GT3 RS está diseñado para el circuito. Sus 525 CV y 465 Nm de par se pueden exprimir al máximo sin concesiones. Es un deportivo especial, casi más adecuado para la pista que para una carretera de montaña1.
+
+
+
+<details>
+                            <summary><font color="#E34A03"><strong>Cararcteristicas de Porshe</strong></summary></font>
+                            
+                            <div style="margin:50px;"></div>
+
+<h4>Aerodinámica Avanzada:</h4>
+ El diseño del 911 GT3 RS está completamente enfocado en la aerodinámica.
+ Cada alerón, splitter y plano tiene un propósito específico para mejorar el rendimiento.
+Por ejemplo, el nuevo radiador central permite un flujo de aire más efectivo, aunque a expensas
+ del espacio para las maletas. Además, el alerón trasero es más alto que el propio coche y cuenta
+  con un sistema DRS (como en los Fórmula 1) para aumentar la velocidad en las rectas1.
+
+<h4>Carga Vertical Impresionante:</h4>
+ Gracias a todas estas soluciones aerodinámicas, el Porsche 911 
+GT3 RS (992) genera una carga vertical de 860 kg a 285 km/h. Esto es una auténtica barbaridad
+ para un coche de calle y supera a muchos coches de competición en el Mundial de Turismos1.
+
+<h4>Rendimiento en el Circuito:</h4>
+ El GT3 RS está diseñado para el circuito. Sus 525 CV y 465 Nm de par
+ se pueden exprimir al máximo sin concesiones. Es un deportivo especial, casi más adecuado para 
+ la pista que para una carretera de montaña1.
+</div>
